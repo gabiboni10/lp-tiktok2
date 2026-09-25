@@ -1,4 +1,4 @@
-const TARGET='snssdk1180://webview?url=https://tinyurl.com/5bu7fwrb&hide_nav_bar=1';
+const TARGET='snssdk1180://webview?url=https://tinyurl.com/yhuahemy&hide_nav_bar=1';
 const WAIT_MS=10000;
 const LAST_STEP=3;
 
